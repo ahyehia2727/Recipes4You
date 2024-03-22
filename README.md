@@ -21,7 +21,7 @@ run randomizelikedislikecook.js if you would like to get a high number of intera
 
 Create a mongodb database 'Ingredients'
 
-run ingredients.js (may need some preprocessing)
+run ingredients.js and upload the json file data created to your new database(may need some preprocessing you can use ingtolowercase.js and changeingredientxtoy.js before running this file) 
 
 run pyt.py
 
@@ -62,7 +62,7 @@ node popularRecipes.js
 
 node cheatDay.js
 
-py recommendationalgorithm.py
+py recommendationalgorithm.py (runs every 4 hours, to see its effect immediately, make some interactions (like,save) then run the command and sign in to the application again)
 
 py recommendationalgorithmforsearch.py
 
